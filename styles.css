@@ -5,7 +5,7 @@
     --laranja-claro: #2ef068;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #00299b;
 }
 
 body {
@@ -24,13 +24,13 @@ section {
 
 
 .nav-link {
-    color: #CB6D43;
+    color: #000000;
     font-weight: 600;
 }
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/podio-redondo-de-luz-vermelha-e-fundo-preto-para-simulacao_43614-950.avif.png');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
